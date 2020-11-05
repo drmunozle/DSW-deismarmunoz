@@ -1,0 +1,10 @@
+.titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Menu{
+    padding: 30%;
+    background-color: #005883;
+    width: 80%;
+}
