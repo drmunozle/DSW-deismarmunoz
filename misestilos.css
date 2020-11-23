@@ -1,5 +1,7 @@
 .body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .titulo{
     text-align: center;
